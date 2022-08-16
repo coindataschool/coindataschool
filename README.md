@@ -1,6 +1,6 @@
 # Welcome to Coin Data School
 
-A place where you can get data-driven insights about DeFi and NFT projects and learn how to analyze crypto data.
+A place where you get data-driven insights about DeFi and NFT projects and learn how to analyze crypto data.
 
 I’m a data scientist and statistician. I’m also a DeFi user and crypto researcher. I spend most of my waking hours analyzing crypto data and share my findings in a free [newsletter](https://coindataschool.substack.com/). I also build open source tools that help you make smarter decisions. 
 
