@@ -12,4 +12,4 @@ If you'd like to support my work you can send me crypto through the following:
 - ETH wallet: `0x783c5546C863f65481BD05Fd0e3FD5f26724604E`
 - [Tippin me](https://tippin.me/@coindataschool)
 
-You can also [sponsor me through GitHub](https://github.com/sponsors/coindataschool)
+You can also [sponsor me through GitHub](https://github.com/sponsors/coindataschool).
