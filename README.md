@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to Coin Data School
 
-<!--
-**coindataschool/coindataschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A place where you can get data-driven insights about DeFi and NFT projects and learn how to analyze crypto data.
 
-Here are some ideas to get you started:
+I’m a data scientist and statistician. I’m also a DeFi user and crypto researcher. I spend most of my waking hours analyzing crypto data and share my findings in a free [newsletter](https://coindataschool.substack.com/). I also build open source tools that help you make smarter decisions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on [dune](https://dune.com/coindataschool) and [twitter](https://twitter.com/coindataschool).
+
+---
+
+If you'd like to support my work you can send me crypto through the following:
+
+- ETH wallet: `0x783c5546C863f65481BD05Fd0e3FD5f26724604E`
+- [Tippin me](https://tippin.me/@coindataschool)
+
+You can also [sponsor me through GitHub](https://github.com/sponsors)
