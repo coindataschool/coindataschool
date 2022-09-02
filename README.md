@@ -7,7 +7,7 @@ You can also find me on [dune](https://dune.com/coindataschool) and [twitter](ht
 
 ---
 
-If you'd like to support my work you can send me crypto through the following:
+If you'd like to support my work, you can send me crypto through the following:
 
 - ETH wallet: `0x783c5546C863f65481BD05Fd0e3FD5f26724604E`
 - [Tippin me](https://tippin.me/@coindataschool)
