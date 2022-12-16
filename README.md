@@ -2,8 +2,9 @@
 
 A place where you get data-driven insights about DeFi and NFT projects and learn how to analyze crypto data.
 
-I’m a data scientist and statistician. I’m also a DeFi user and crypto researcher. I spend most of my waking hours analyzing crypto data and building open source tools that help you make smarter decisions. I share my findings in a free [newsletter](https://coindataschool.substack.com/). 
-You can also find me on [dune](https://dune.com/coindataschool) and [twitter](https://twitter.com/coindataschool).
+Hi 👋. I’m a data scientist and machine learning practitioner, with formal training in math and statistics. I started Coin Data School in July 2022 after the collapse of Luna UST and Three Arrows. My goal was to provide good open source analytics to the space and also teach people how to do it. And I do that through a free [newsletter](https://coindataschool.substack.com/), [dune dashboards](https://dune.com/coindataschool), and [data apps](https://coindataschool.github.io/showcase/). I hope my effort can help retail better navigate the crypto land or get that web3 data analyst job.
+
+You can also find me on [twitter](https://twitter.com/coindataschool).
 
 ---
 
